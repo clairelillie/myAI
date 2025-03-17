@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Citation } from "@/types";
-import { Tooltip } from "react-tippy";
+//import { Tooltip } from "react-tippy";
 import Link from "next/link";
 import { EMPTY_CITATION_MESSAGE } from "@/configuration/ui";
 
