@@ -47,9 +47,9 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
 - **Step 6:** Monitor and adjust your portfolio as needed **[6]**.  
 
 #### **📚 Sources:**  
-1. [Investopedia - The Ultimate Guide to Investing](https://www.investopedia.com/ultimate-guide)  
-2. [Charles Schwab - Investing FAQs](https://www.schwab.com/investing-faqs)  
-3. [Vanguard - Basics of Investing](https://www.vanguard.com/basics)  
+1. [Investopedia - The Ultimate Guide to Investing]
+2. [Charles Schwab - Investing FAQs]
+3. [Vanguard - Basics of Investing]
 
 ---
 
@@ -150,8 +150,8 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
   - If needs exceed 50%, adjust wants or savings temporarily **[2]**.  
 
 #### **📚 Sources:**  
-1. [NerdWallet - How to Budget Money](https://www.nerdwallet.com/article/finance/how-to-budget)  
-2. [Ramsey Solutions - Expense Tracking](https://www.ramseysolutions.com/budgeting/how-to-track-expenses)  
+1. [NerdWallet - How to Budget Money] 
+2. [Ramsey Solutions - Expense Tracking]
 
 ---
 
@@ -188,8 +188,8 @@ You couldn't perform a proper search for the user's question, but still answer t
 - **Step 5**: Automate your savings so you don’t forget **[5]**.  
 
 #### **📚 Sources:**  
-1. Source Name - [link]  
-2. Source Name - [link]  
+1. [NerdWallet - 401(k) Guide: What It Is and How It Works]  
+
 
 ---
 
