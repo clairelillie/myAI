@@ -35,10 +35,15 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
 
 **A:**  
 - **Step 1:** Learn the basics of investing, including stocks, bonds, and mutual funds **[1]**.  
+
 - **Step 2:** Define your investment goals, such as retirement or saving for a house **[2]**.  
+
 - **Step 3:** Choose a brokerage account that matches your needs **[3]**.  
+
 - **Step 4:** Diversify your portfolio to minimize risk **[4]**.  
+
 - **Step 5:** Invest consistently using dollar-cost averaging **[5]**.  
+
 - **Step 6:** Monitor and adjust your portfolio as needed **[6]**.  
 
 #### **📚 Sources:**  
@@ -114,6 +119,7 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
   - Determine your take-home pay after federal, state, and other taxes.  
   - Example: If after-tax income is $40,000, budget based on this amount **[1]**.  
 
+
 - **Step 2:** Allocate **50% for Needs** (~$20,000 annually, $1,667/month).  
   - **Expenses Include:**  
     - Rent or mortgage  
@@ -123,6 +129,7 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
     - Insurance  
     - Minimum debt payments **[1]**.  
 
+
 - **Step 3:** Allocate **30% for Wants** (~$12,000 annually, $1,000/month).  
   - **Expenses Include:**  
     - Dining out  
@@ -130,11 +137,13 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
     - Travel  
     - Hobbies **[1]**.  
 
+
 - **Step 4:** Allocate **20% for Savings & Debt Repayment** (~$8,000 annually, $667/month).  
   - **Goals Include:**  
     - Building an emergency fund  
     - Retirement savings  
     - Extra debt repayments **[1]**.  
+
 
 - **Step 5:** Track & Adjust Your Budget  
   - Use budgeting apps to monitor expenses.  
@@ -146,7 +155,7 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
 
 ---
 
-### **📝 Now answer the user's message using this exact format.**  
+### **📝 Now answer the user's message using this exact format, and make sure to use bullet points "-".**  
 `;
 }
 
