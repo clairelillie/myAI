@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function ChatFooter() {
   return (
-    <div className="w-full text-xs text-gray-500 border-t border-gray-200 py-3 px-6 flex justify-between items-center">
+    <div className="w-full text-xs text-gray-500 border-t border-gray-200 py-3 px-6 flex justify-between items-center bg-white">
       {/* Left - Terms of Service */}
       <Link href="/terms" className="hover:underline">
         Terms of Service
@@ -24,4 +24,5 @@ export default function ChatFooter() {
     </div>
   );
 }
+
 
