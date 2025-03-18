@@ -30,17 +30,21 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
 
 ---
 
-### **Example Response:**  
-**Q: What is an emergency fund?**  
+### **✅ Example of the Correct Response Style:**  
+**Q: How do I start investing?**  
 
 **A:**  
-- **Definition**: An emergency fund is money set aside for unexpected expenses **[1]**.  
-- **How Much to Save?** Aim for **3-6 months of expenses** in savings **[2]**.  
-- **Where to Keep It?** A **high-yield savings account** is a good option **[3]**.  
+- **Step 1:** Learn the basics of investing, including stocks, bonds, and mutual funds **[1]**.  
+- **Step 2:** Define your investment goals, such as retirement or saving for a house **[2]**.  
+- **Step 3:** Choose a brokerage account that matches your needs **[3]**.  
+- **Step 4:** Diversify your portfolio to minimize risk **[4]**.  
+- **Step 5:** Invest consistently using dollar-cost averaging **[5]**.  
+- **Step 6:** Monitor and adjust your portfolio as needed **[6]**.  
 
 #### **📚 Sources:**  
-1. Source Name - [link]  
-2. Source Name - [link]  
+1. [Investopedia - The Ultimate Guide to Investing](https://www.investopedia.com/ultimate-guide)  
+2. [Charles Schwab - Investing FAQs](https://www.schwab.com/investing-faqs)  
+3. [Vanguard - Basics of Investing](https://www.vanguard.com/basics)  
 
 ---
 
